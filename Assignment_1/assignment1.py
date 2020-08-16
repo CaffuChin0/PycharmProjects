@@ -1,6 +1,6 @@
 """
 Replace the contents of this module docstring with your own details
-Name: Hsu Ming-wei
+Name: Hsu Mingwei
 Date started:11/8/2020
 GitHub URL: https://github.com/JCUS-CP1404/assignment-1-travel-tracker-CaffuChin0
 """
@@ -41,7 +41,7 @@ def get_priority(items):
 
 
 def main():
-    print("Travel Tracker 1.0 - by name")
+    print("Travel Tracker 1.0 - by Hsu Mingwei")
 
     data = get_data('places.csv')
     print(f'{len(data)} places loaded from places.csv')
